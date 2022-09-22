@@ -1,1 +1,1 @@
-# bootcamp-database-dio
+# Bootcamp Database Experience - DIO
