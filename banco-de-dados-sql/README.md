@@ -26,3 +26,8 @@ Sistema de controle e gerenciamento de execução de ordens de serviço em uma o
 - A mesma equipe avalia e executa os serviços
 - Os mecânicos possuem código, nome, endereço e especialidade
 - Cada OS possui: n°, data de emissão, um valor, status e uma data para conclusão dos trabalhos.
+
+
+# 03 - Construindo seu Primeiro Projeto Lógico de Banco de Dados - Ecommerce
+`Objetivo:`
+Replique a modelagem do projeto lógico de banco de dados para o cenário de e-commerce. Fique atento as definições de chave primária e estrangeira, assim como as constraints presentes no cenário modelado. Perceba que dentro desta modelagem haverá relacionamentos presentes no modelo EER. Sendo assim, consulte como proceder para estes casos. Além disso, aplique o mapeamento de modelos aos refinamentos propostos no módulo de modelagem conceitual.
