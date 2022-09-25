@@ -31,3 +31,11 @@ Sistema de controle e gerenciamento de execução de ordens de serviço em uma o
 # 03 - Construindo seu Primeiro Projeto Lógico de Banco de Dados - Ecommerce
 `Objetivo:`
 Replique a modelagem do projeto lógico de banco de dados para o cenário de e-commerce. Fique atento as definições de chave primária e estrangeira, assim como as constraints presentes no cenário modelado. Perceba que dentro desta modelagem haverá relacionamentos presentes no modelo EER. Sendo assim, consulte como proceder para estes casos. Além disso, aplique o mapeamento de modelos aos refinamentos propostos no módulo de modelagem conceitual.
+
+# 04 - Construindo um Projeto Lógico de Banco de Dados do Zero - Oficina
+`Descrição:`
+
+Para este cenário você irá utilizar seu esquema conceitual, criado no desafio do módulo de modelagem de BD com modelo ER, para criar o esquema lógico para o contexto de uma oficina. Neste desafio, você definirá todas as etapas. Desde o esquema até a implementação do banco de dados. 
+
+
+
